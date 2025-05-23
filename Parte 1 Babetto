@@ -1,1 +1,20 @@
+1)A linguagem Assembly, ou Assembler, é uma linguagem de programação de baixo nível que se comunica diretamente com o hardware do computador. Cada instrução escrita em Assembly corresponde a uma instrução específica do código de máquina, o que permite um controle detalhado sobre os recursos do sistema.
+Por estar mais próxima do funcionamento interno do processador, a programação em Assembly oferece alto desempenho. Em termos práticos, isso significa que os programas podem ser mais rápidos e eficientes, uma característica importante em sistemas que exigem velocidade e uso otimizado de recursos.
+A linguagem Assembly trouxe uma maneira mais compreensível de escrever programas em comparação ao código binário puro. Utilizando mnemônicos (abreviações simbólicas) os programadores puderam representar operações de máquina de forma mais legível. Por exemplo, em vez de codificar diretamente os valores binários 00000001 e 00000010 para representar os números 1 e 2, e depois realizar sua soma, seria possível escrever simplesmente ADD 1, 2.
+A tradução do código Assembly para o código de máquina é realizada por um programa chamado montador (ou assembler), que converte as instruções simbólicas para seu equivalente binário. Esse processo possibilita que o código seja executado diretamente pelo processador, mantendo o desempenho elevado e permitindo um controle preciso do funcionamento do hardware.
+
+
+4) Em sistemas embarcados, onde os recursos de hardware são limitados e o desempenho é essencial, a linguagem Assembly continua sendo amplamente empregada. Em microcontroladores presentes em eletrodomésticos, veículos e dispositivos médicos utilizam Assembly para executar tarefas críticas de forma eficiente e confiável.
+Além disso, diversas partes de sistemas operacionais são escritas em Assembly para garantir controle total sobre o hardware e obter o máximo desempenho. O kernel do Linux, por exemplo, inclui trechos de código em Assembly para manipular rotinas de baixo nível de forma precisa.
+Na área de segurança da informação, Assembly desempenha um papel fundamental. Ele é utilizado tanto na criação de exploits quanto na análise de malwares, permitindo que especialistas compreendam o comportamento interno de softwares maliciosos com profundidade.
+Por oferecer controle direto sobre os componentes do sistema e otimização máxima do desempenho, a linguagem Assembly permanece insubstituível em contextos onde precisão, velocidade e uso eficiente dos recursos são indispensáveis.
+
+
+
+
+Fonte: Skill Tecnologicas
+
+https://skillstecnologicas.com/linguagem-assembly/#o-que-e-a-linguagem-assembly
+
+
 
