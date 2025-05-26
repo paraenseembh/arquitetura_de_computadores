@@ -1,3 +1,4 @@
+```assembly
 .data
     prompt1: .asciiz "Digite o primeiro numero: "
     prompt2: .asciiz "Digite o segundo numero: "
@@ -41,5 +42,6 @@ main:
     # Finaliza o programa
     li $v0, 10             # código para sair do programa
     syscall
+```
 
-    ![Q2](https://raw.githubusercontent.com/paraenseembh/arquitetura_de_computadores/main/Q2%20assembly.png)
+![Q2](https://raw.githubusercontent.com/paraenseembh/arquitetura_de_computadores/main/Q2%20assembly.png)
