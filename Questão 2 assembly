@@ -42,3 +42,4 @@ main:
     li $v0, 10             # código para sair do programa
     syscall
 
+    ![Q2](https://raw.githubusercontent.com/paraenseembh/arquitetura_de_computadores/main/Q2%20assembly.png)
