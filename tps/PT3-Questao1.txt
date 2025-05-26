@@ -1,1 +1,8 @@
-1)Para nós, a maior dificuldade ao escrever códigos em Assembly foi lidar com o fato de que cada comando executa apenas uma instrução simples. Como estamos acostumados com linguagens de alto nível, onde é possível fazer várias ações em uma única linha, trabalhar com Assembly exigiu muito mais atenção aos detalhes. Tudo precisa ser feito “na mão”: controlar registradores, gerenciar o fluxo do programa e até fazer operações básicas pode se tornar trabalhoso. Isso deixa o código mais longo e mais demorado de escrever. Em comparação com linguagens de alto nível, Assembly exige um raciocínio mais próximo do funcionamento real do processador, o que pode ser interessante para entender melhor como tudo funciona por trás, mas também torna a programação mais cansativa e propensa a erros.
+1)Para nós, a maior dificuldade ao escrever códigos em Assembly foi lidar com o fato de que cada 
+comando executa apenas uma instrução simples. Como estamos acostumados com linguagens de alto nível, 
+onde é possível fazer várias ações em uma única linha, trabalhar com Assembly exigiu muito mais atenção 
+aos detalhes. Tudo precisa ser feito “na mão”: controlar registradores, gerenciar o fluxo do programa e 
+até fazer operações básicas pode se tornar trabalhoso. Isso deixa o código mais longo e mais demorado de
+escrever. Em comparação com linguagens de alto nível, Assembly exige um raciocínio mais próximo do 
+funcionamento real do processador, o que pode ser interessante para entender melhor como tudo funciona 
+por trás, mas também torna a programação mais cansativa e propensa a erros.
