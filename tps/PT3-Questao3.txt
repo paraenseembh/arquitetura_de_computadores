@@ -1,0 +1,8 @@
+3)Contribui significativamente no currículo, mesmo que de forma introdutória. Para um profissional de 
+Ciência de Dados e Inteligência Artificial, o conhecimento de Assembly não será o foco principal, mas 
+ele complementa a formação ao oferecer uma visão completa de como os programas realmente funcionam. Em 
+muitos projetos de IA, é necessário compreender limitações de hardware, ter noções de como a arquitetura 
+desses dispositivos funciona e de como Assembly interage com o processador, ajuda a interpretar problemas 
+de desempenho e tomar decisões mais informadas sobre implementações e otimizações. Por fim, mesmo que a 
+pessoa nunca programe diretamente em Assembly, o estudo dessa linguagem ensina a pensar com mais precisão 
+e eficiência, algo que beneficia qualquer profissional que lida com algoritmos e grandes volumes de dados.
