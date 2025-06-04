@@ -1,0 +1,7 @@
+2)Embora Assembly não seja diretamente usado em projetos de Ciência de Dados ou Inteligência Artificial, o 
+conhecimento de baixo nível sobre como o computador executa instruções é extremamente valioso em diversas 
+situações. Saber como os dados são representados na memória e como instruções são executadas pelo processador 
+pode ajudar na escolha de estruturas de dados mais eficientes e na identificação de limitações de desempenho
+ao lidar com grandes volumes de dados e modelos complexos. Habilidades desenvolvidas ao trabalhar com 
+Assembly, como pensamento lógico preciso, atenção a detalhes, otimização de recursos e compreensão da 
+arquitetura do sistema, são valiosas na análise e implementação de algoritmos.
