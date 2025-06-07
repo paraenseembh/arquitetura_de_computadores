@@ -44,4 +44,4 @@ main:
     syscall
 ```
 
-![Q2](https://raw.githubusercontent.com/paraenseembh/arquitetura_de_computadores/main/Q2%20assembly.png)
+![Q2](https://github.com/paraenseembh/arquitetura_de_computadores/blob/main/tps/Q2%20assembly.png?raw=true)
