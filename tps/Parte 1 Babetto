@@ -4,6 +4,15 @@ A linguagem Assembly trouxe uma maneira mais compreensível de escrever programa
 A tradução do código Assembly para o código de máquina é realizada por um programa chamado montador (ou assembler), que converte as instruções simbólicas para seu equivalente binário. Esse processo possibilita que o código seja executado diretamente pelo processador, mantendo o desempenho elevado e permitindo um controle preciso do funcionamento do hardware.
 
 
+2) Assembly é uma linguagem de programação de baixo nível que proporciona controle direto sobre o hardware, sendo particularmente útil para tarefas que demandam precisão e alto desempenho, como sistemas embarcados e desenvolvimento de kernels. Por outro lado, linguagens de alto nível, como C, Java e Python, priorizam facilidade de escrita, leitura e manutenção, além de oferecerem maior produtividade e portabilidade.
+A principal vantagem do Assembly é o desempenho otimizado e o acesso direto aos recursos do sistema. Por outro lado, ele é complexo, difícil de depurar e dependente da arquitetura, enquanto linguagens de alto nível são mais acessíveis, seguras e versáteis para projetos maiores e multiplataforma.
+
+
+3) O montador (assembler) é um programa que traduz o código Assembly, escrito com instruções simbólicas, para código de máquina binário, que pode ser executado diretamente pelo processador. Ele realiza essa conversão instrução por instrução, garantindo que o software funcione conforme a lógica programada.
+Já o simulador é uma ferramenta que imita o comportamento de um processador real, permitindo que o programador escreva, teste e depure código Assembly sem precisar de hardware físico. Ele mostra o conteúdo dos registradores, memória e o fluxo de execução, sendo muito útil para aprendizado e análise de desempenho.
+Um exemplo é o MARS (MIPS Assembler and Runtime Simulator), um ambiente gráfico que simula a arquitetura MIPS. Ele oferece montagem do código, execução passo a passo, visualização de registradores e memória, além de ferramentas extras como análise de cache e suporte a chamadas de sistema.
+
+
 4) Em sistemas embarcados, onde os recursos de hardware são limitados e o desempenho é essencial, a linguagem Assembly continua sendo amplamente empregada. Em microcontroladores presentes em eletrodomésticos, veículos e dispositivos médicos utilizam Assembly para executar tarefas críticas de forma eficiente e confiável.
 Além disso, diversas partes de sistemas operacionais são escritas em Assembly para garantir controle total sobre o hardware e obter o máximo desempenho. O kernel do Linux, por exemplo, inclui trechos de código em Assembly para manipular rotinas de baixo nível de forma precisa.
 Na área de segurança da informação, Assembly desempenha um papel fundamental. Ele é utilizado tanto na criação de exploits quanto na análise de malwares, permitindo que especialistas compreendam o comportamento interno de softwares maliciosos com profundidade.
@@ -12,9 +21,9 @@ Por oferecer controle direto sobre os componentes do sistema e otimização máx
 
 
 
-Fonte: Skill Tecnologicas
+Fontes: Skill Tecnologicas, GeekForGeeks, Missouri State University 
 
 https://skillstecnologicas.com/linguagem-assembly/#o-que-e-a-linguagem-assembly
-
-
+https://www.geeksforgeeks.org/difference-between-assembly-language-and-high-level-language/
+https://computerscience.missouristate.edu/mars-mips-simulator.htm
 
